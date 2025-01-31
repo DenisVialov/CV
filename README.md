@@ -3,21 +3,21 @@
 **Backend Developer Golang**
 
 ## Технологии
-Goland
-Docker
-postgreSQL
-mySQL
-Git
-Kubernetes
+* Goland
+* Docker
+* postgreSQL
+* mySQL
+* Git
+* Kubernetes
 
 
 ## Знания
-Микросервисная архитектура
-REST API 
-Golang
-HTTP/HTTPS
-gRPC
-Английский язык(B1)
+* Микросервисная архитектура
+* REST API 
+* Golang
+* HTTP/HTTPS
+* gRPC
+* Английский язык(B1)
 
 ## Опыт
 
